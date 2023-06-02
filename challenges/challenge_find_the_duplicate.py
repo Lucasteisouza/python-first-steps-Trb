@@ -9,5 +9,3 @@ def find_duplicate(nums):
             return ordered_nums[i]
     return False
     raise NotImplementedError
-
-print(find_duplicate([1, 3, 4, 2, 2]))
